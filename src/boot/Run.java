@@ -18,7 +18,7 @@ public class Run {
 		char choiceChar;
 		char nChar;
 		
-		
+		System.out.println("Hi there everybody");
 		System.out.println("How many workers?");
 		try {
 			iChar = (char) System.in.read();
